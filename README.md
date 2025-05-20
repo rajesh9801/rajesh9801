@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @rajesh9801 (Rajesh Kumar)
+- 👀 I’m interested in Web Development, Problem Solving, and Open Source
+- 🌱 I’m currently learning React.js, Backend Development & System Design
+- 💞️ I’m looking to collaborate on frontend projects, web apps, and open-source contributions
+- 📫 How to reach me: rk424036@gmail.com | [LinkedIn](https://www.linkedin.com/in/rajesh-kumar-791679297/)
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I’ve solved 350+ DSA problems and built real world project from scratch!
